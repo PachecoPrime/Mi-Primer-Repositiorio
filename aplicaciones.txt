@@ -1,0 +1,6 @@
+Proyecto de Inteligencia Artificial
+
+Aplicaciones:
+- Predicción de datos.
+- Clasificación de información.
+- Reconocimiento de imágenes.
